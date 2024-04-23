@@ -13,9 +13,15 @@ Các tính năng của MobaXterm Professional
 * Và nhiều tính năng linh ta linh tinh khác, nó khá rộng lớn.
 
 Hướng dẫn cài đặt MobaXterm Professional 21.0 Full
-1- Gỡ cài đặt phiên bản trước 
+
+1- Gỡ cài đặt phiên bản trước
+
 2- Tải xuống và giải nén tệp
+
 3- Cài đặt phần mềm
+
 4- Chạy keygen, nhấp vào “Get Version from File” và chọn MobaXterm.exe từ thư mục chương trình.
+
 5- Nhấp vào "Tạo".
+
 6- Tận hưởng!
