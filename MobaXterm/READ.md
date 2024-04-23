@@ -1,6 +1,6 @@
 MobaXterm Professional là một SSH Client phần mềm quản trị đồ vật chủ từ xa thông qua SSH dành cho máy khách khá tốt và với rộng rãi thuận tiện. MobaXterm Professional cấp dưỡng vô số chức năng ưa thích cho lập trình viên, quản trị web, quản trị viên CNTT và tương đối nhiều loại người mua phải xử lý làm việc từ xa theo bí quyết đơn giản hơn. MobaXterm cung ứng gần như những công cụ mạng từ xa quan trọng (SSH, X11, RDP, VNC, FTP, MOSH, …) và các lệnh Unix (bash, ls, cat, sed, grep, awk, rsync, …) , trong 1 tệp exe Mobile duy nhất hoạt động xung quanh hộp.
 
-Các tính năng của MobaXterm Professional
+**Các tính năng của MobaXterm Professional**
 * Lưu trữ thông tin của nhiều server theo dạng profile. Muốn kết nối vào server nào thì click 1 cái, nó sẽ tự mở tab mới.
 * Có tính năng Multi Execution – Nghĩa là gõ một lệnh thực thi cùng lúc trên nhiều server.
 * Kết nối một server vô nhiều giao thức khác nhau.
@@ -12,7 +12,7 @@ Các tính năng của MobaXterm Professional
 * Tích hợp nhiều công cụ nhỏ như Editor, máy tính và kể cả game giải trí trong lúc chờ đợi làm việc nữa.
 * Và nhiều tính năng linh ta linh tinh khác, nó khá rộng lớn.
 
-Hướng dẫn cài đặt MobaXterm Professional 21.0 Full
+**Hướng dẫn cài đặt MobaXterm Professional 21.0 Full**
 
 1- Gỡ cài đặt phiên bản trước
 
