@@ -9,7 +9,7 @@ Tracert là công cụ dòng lệnh nền tảng Windows dùng để xác địn
 * Download thư viện
 
 WinPcap
-tracetcp_v1.0.3.zip 
+[tracetcp_v1.0.3.zip](https://github.com/user-attachments/files/17565631/tracetcp_v1.0.3.zip)
 
 Để sử dụng lệnh bạn vào cmd di chuyển đến thư mục chưa file tracetcp.exe vừa giải nén :
 ```
